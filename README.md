@@ -1,5 +1,7 @@
 # Digital Portfolio - Jessica Gonzalez
 
+09 Jul 2020
+
 ## Project Description
 
 This project is a refresh of the old digital portfolio of the photographer Jessica González, which you can visit at www.jessica-gonzalez.com.
